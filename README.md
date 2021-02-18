@@ -6,6 +6,6 @@ What I've learned so far: Data structures, algorithms, JavaScript (ES6), Promise
 
 I'm passionate about new technologies and software development, I'm a quick learner and I love challenges!
 
-##### 🤔 Learn more about me on <a href="https://www.linkedin.com/in/matias-racedo/" rel="linkedin profile">LinkedIn</a>!
-##### ⚡ Checkout my <a href="https://matiasracedo.github.io/" rel="portfolio">Portfolio</a>!
+##### 🤔 Learn more about me on <a href="https://www.linkedin.com/in/matias-racedo/" rel="linkedin profile" target="_blank">LinkedIn</a>!
+##### ⚡ Checkout my <a href="https://matiasracedo.github.io/" rel="portfolio" target="_blank">Portfolio</a>!
 ##### 📫 How to reach me: 📩 matiasracedo@gmail.com
