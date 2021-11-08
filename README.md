@@ -4,7 +4,7 @@ I'm a Full Stack Software Developer.
 
 What I've learned so far:
 - Languages: JavaScript/ES6 (Data structures, algorithms, Promises), TypeScript, Python (OOP), CSS, HTML.
-- Technologies/frameworks/tools: Less, Sass, Bootstrap, Material UI, Babel, Webpack, Node JS, Express, Passport, JWT, OAuth, OIDC, PostgreSQL, Sequelize, MongoDB, Mongoose, Firebase, React, Redux, React Native, Next.js.
+- Technologies/frameworks/tools: Node JS, Flask, React, Redux, React Native, Next.js, Gatsby.js, Less, Sass, Bootstrap, Material UI, Babel, Webpack, Express, Passport, JWT, OAuth, OIDC, PostgreSQL, Sequelize, MongoDB, Mongoose, Firebase.
 
 I'm passionate about software development and always learning about new technologies. I'm a quick learner and I love challenges!
 
