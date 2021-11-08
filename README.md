@@ -1,6 +1,5 @@
 ## Hi there 👋 my name is Matías
 
-Hi! My name is Matias.
 I'm a Full Stack Software Developer.
 
 What I've learned so far:
